@@ -2,12 +2,12 @@
 <html lang="zxx">
 
 <head>
-	<title>Indo-Kenya Agro and Food Processing Expo</title>
+	<title>Virtual Indo-Kenya Agro and Food Processing Expo</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<meta name="keywords"
-		content="Youth Sacco, saving, money, kenya, invest, finance, nairobi" />
+		content="agro-rocessing, agribusiness, virtual expo, milk processing, access to markets, agrohubexpo, agriculture" />
 	<!-- //Meta tag Keywords -->
 
 	<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&display=swap" rel="stylesheet">
@@ -21,7 +21,7 @@
 
 <body>
 	<!-- coming soon -->
-	<section class="mwysacco-page">
+	<section class="container">
 		<div class="coming-page-info">
 			<div class="wrapper">
 				<div class="logo-center">
