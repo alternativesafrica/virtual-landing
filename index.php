@@ -11,7 +11,7 @@
 	<meta name="keywords"
 		content="agro-rocessing, agribusiness, virtual expo, milk processing, access to markets, agrohubexpo, agriculture" />
 	<!-- //Meta tag Keywords -->
-
+	<link rel="icon" type="image/png" href="favicon.ico" />
 	<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&display=swap" rel="stylesheet">
 	<!-- //google fonts -->
 
